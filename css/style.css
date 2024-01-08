@@ -162,9 +162,9 @@ a {
 	position: relative;
 }
 
-.hero-responsive {
+/* .hero-responsive {
 	display: none;
-}
+} */
 
 .hero {
 	display: flex;
